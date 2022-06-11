@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header1{
+    height: 100vh;
+    width: 100%;
+    background-image: url(../conference.jpg);
+    background-position: center;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.head{
+    margin-top: 150px;
+   text-align: center;
+   font-size: 60px;
+   color: red;
+}
+.head1{
+    display: flex;
+    justify-content: space-between;
+}
+.love{
+    list-style: none;
+    display: inline-block;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+   
+}
+.ja{
+    text-decoration: none;
+    color: white;
+    font-size: 13px;
+}
+.ja:hover{
+    background-color: red;
+    border-radius: 2px;
+}
+.about{
+    text-align: center;
+}
+.about h3{
+font-size: 25px;
+margin-bottom: 15px;
+}
+.about p{
+    margin-bottom: 10px;
+}
+.logo a{
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px;
+}
+.enter{
+    display: flex;
+    margin-top: 20px;
+    align-items: center;
+    margin-left: 5px;
+    margin-bottom: 30px;
+}
+.best{
+    margin-left: 20px;
+}
+.best h3{
+    text-align: center;
+}
+.best p{
+    line-height: 25px;
+    margin-bottom: 30px;
+}
+.congrats{
+    width: auto;
+    height: auto;
+}
+
